@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="PASSWORD" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="PROJECT_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="CHANGES_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc071c81-c541-472b-8a34-af32722b66da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/address_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow22@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/block_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/bookmark_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/briefcase_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/bubble_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/buy_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/calendar_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox1c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox2c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox3c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/clipboard_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/clock_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/delete_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/deploy-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/deploy-nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/diagram_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/document_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/down_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/droid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/droid@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/flag_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/folder_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/gear_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/globe_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/goup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/heart_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/help_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/home_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icons@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/info_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/intro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/ipad@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/iphone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/key_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/label_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/left_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/letter_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/logo-header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/menu-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/monitor_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-dropdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-dropup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/next1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/pencil_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/plus_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/present_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/prev1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/print_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio1c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio2c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/right_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/save_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/search_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/shield_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-landscape-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-portrait-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/statistics_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/status.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/stop_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-off@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-on@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/tick@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/tick_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/trash_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/up_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/user_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/wallet_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/warning_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/styles/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/framework.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.launcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/gallery-round.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-square.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/gallery-wide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icon3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/others.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-adaptive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-one.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-three.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/preoloader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/styles/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/swipebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/typography.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/contact.html" afterPath="$PROJECT_DIR$/outsider/app/templates/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/outsider/app/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-round.html" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-round.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-square.html" afterPath="$PROJECT_DIR$/template/template/gallery-square.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-wide.html" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-wide.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/droid.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/droid.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/droid@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/droid@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/ipad.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/ipad.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/ipad@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/ipad@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/iphone.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/iphone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/iphone@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/iphone@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icon3.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icon3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icon3.svg" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icon3.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icons.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icons@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icons@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/loader.gif" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8w.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/address_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/address_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/block_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/block_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/bookmark_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/bookmark_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/briefcase_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/briefcase_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/bubble_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/bubble_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/buy_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/buy_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/calendar_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/calendar_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/clipboard_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/clipboard_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/clock_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/clock_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/delete_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/delete_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/diagram_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/diagram_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/document_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/document_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/down_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/down_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/flag_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/flag_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/folder_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/folder_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/gear_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/gear_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/globe_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/globe_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/heart_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/heart_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/help_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/help_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/home_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/home_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/info_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/info_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/key_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/key_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/label_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/label_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/left_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/left_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/letter_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/letter_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/license.txt" afterPath="$PROJECT_DIR$/outsider/app/images/lists/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/monitor_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/monitor_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/pencil_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/pencil_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/plus_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/plus_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/present_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/present_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/print_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/print_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/right_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/right_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/save_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/save_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/search_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/search_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/shield_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/shield_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/statistics_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/statistics_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/stop_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/stop_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/tick_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/tick_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/trash_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/trash_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/up_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/up_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/user_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/user_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/wallet_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/wallet_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/warning_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/warning_48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo-big.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo-big.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo-dark.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/arrow-left.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/arrow-left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/arrow-right.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/arrow-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_mail.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_mail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_message.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_message.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_phone.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_phone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/deploy-mail.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/deploy-mail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/deploy-nav.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/deploy-nav.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/goup.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/goup.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/intro.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/intro.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/logo-header.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/logo-header.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/logo.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/menu-bg.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/menu-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-dropdown.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-dropdown.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-dropup.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-dropup.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-link.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-link.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-submenu.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-submenu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-blue.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-green.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-red.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-yellow.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-yellow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_close.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_magnifier.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_magnifier.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_phone.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_phone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-icon.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-landscape-retina.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-landscape-retina.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-landscape.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-landscape.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-portrait-retina.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-portrait-retina.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-portrait.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-portrait.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen@3x.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/status.gif" afterPath="$PROJECT_DIR$/outsider/app/images/status.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow-down.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow-down.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow-up.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow-up.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow22@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow22@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow2@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow2@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox1c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox1c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox2.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox2c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox2c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox3.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox3c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox3c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/minus.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/minus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/next.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/next1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/next1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/plus.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/plus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/prev.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/prev.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/prev1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/prev1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio1c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio1c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio2.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio2c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio2c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-off.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-off.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-off@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-off@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-on.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-on@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-on@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/tick@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/tick@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois2.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois3.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/index.html" afterPath="$PROJECT_DIR$/template/template/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/jquery.html" afterPath="$PROJECT_DIR$/template/template/jquery.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/others.html" afterPath="$PROJECT_DIR$/outsider/app/templates/others.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/php/contact.php" afterPath="$PROJECT_DIR$/template/template/php/contact.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-adaptive.html" afterPath="$PROJECT_DIR$/template/template/portfolio-adaptive.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-one.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-one.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-three.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-three.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-two.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-two.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/custom.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.launcher.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.launcher.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.plugins.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.plugins.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/jquery.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/jqueryui.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/jqueryui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/animate.css" afterPath="$PROJECT_DIR$/outsider/app/styles/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/font-awesome.css" afterPath="$PROJECT_DIR$/template/template/styles/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/framework.css" afterPath="$PROJECT_DIR$/outsider/app/styles/framework.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/owl.carousel.css" afterPath="$PROJECT_DIR$/outsider/app/styles/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/owl.theme.css" afterPath="$PROJECT_DIR$/outsider/app/styles/owl.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/style.css" afterPath="$PROJECT_DIR$/template/template/styles/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/swipebox.css" afterPath="$PROJECT_DIR$/outsider/app/styles/swipebox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/typography.html" afterPath="$PROJECT_DIR$/template/template/typography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outsider/config.xml" afterPath="$PROJECT_DIR$/outsider/config.xml" />
+    </list>
+    <ignored path="outsider-frontend.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="outsider-frontend" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43947572">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/styles/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="89.458336">
+              <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../genesis" value="7146601196000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/outsider/app/templates/home.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/preoloader.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/contact.html" />
+        <option value="$PROJECT_DIR$/outsider/app/index.html" />
+        <option value="$PROJECT_DIR$/outsider/app/scripts/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="76" />
+    <option name="y" value="23" />
+    <option name="width" value="2484" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/outsider/app/templates" />
+      <recent name="$PROJECT_DIR$/outsider/app/styles" />
+      <recent name="$PROJECT_DIR$/outsider/app/scripts" />
+      <recent name="$PROJECT_DIR$/outsider/app/images" />
+      <recent name="$PROJECT_DIR$/outsider/app/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/outsider-ionic" />
+      <recent name="$PROJECT_DIR$/outsider/app/template" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../infinity" value="1436880790000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc071c81-c541-472b-8a34-af32722b66da" name="Default" comment="" />
+      <created>1441130031658</created>
+      <option name="number" value="Default" />
+      <updated>1441130031658</updated>
+      <workItem from="1441130033113" duration="5159000" />
+      <workItem from="1441198595197" duration="1081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6240000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="76" y="23" width="2484" height="1417" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="MMGraph" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981133" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/styles/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template/scripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template/php/contact.php">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.965517">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/fonts/ionicons.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/fonts/ionicons.eot">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/styles/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/preoloader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/images/logo-big.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/sidemenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-103.125">
+          <caret line="165" column="6" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11783189">
+          <caret line="174" column="10" selection-start-line="174" selection-start-column="10" selection-end-line="174" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3904164">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5805707">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="89.458336">
+          <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43947572">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
