@@ -26,364 +26,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc071c81-c541-472b-8a34-af32722b66da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/1w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/2w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/3w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/4w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/5w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/6w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/7w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/general-nature/8w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/address_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/arrow-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow22@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/arrow2@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/block_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/bookmark_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/briefcase_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/bubble_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/buy_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/calendar_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox1c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox2c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/checkbox3c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/clipboard_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/clock_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_message.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/contact_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/delete_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/deploy-mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/deploy-nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/diagram_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/document_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/down_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/droid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/droid@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/flag_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/folder_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/gear_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/globe_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/goup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/heart_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/help_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/home_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icons@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/info_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/intro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/ipad@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/detector/iphone@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/key_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/label_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/left_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/letter_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/logo-header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/menu-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/monitor_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-dropdown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-dropup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/nav-submenu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/next1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/notification-yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/present_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/prev1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/print_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio1c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/radio2c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/right_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/save_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/search_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/shield_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_magnifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/shortcut_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-landscape-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-portrait-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen-ipad-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/splash/splash-screen@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/statistics_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/status.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/stop_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-off@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/switch-on@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/ui/tick@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/tick_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/trash_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/misc/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/up_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/user_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/wallet_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/warning_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/whois3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/styles/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/framework.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.launcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/scripts/framework.plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/gallery-round.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-square.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/gallery-wide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/gallery/icon3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/jquery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/scripts/jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/images/lists/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/others.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-adaptive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-three.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/portfolio-two.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/preoloader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/template/styles/swipebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outsider/app/templates/typography.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/contact.html" afterPath="$PROJECT_DIR$/outsider/app/templates/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/outsider/app/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/outsider/app/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-round.html" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-round.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-square.html" afterPath="$PROJECT_DIR$/template/template/gallery-square.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/gallery-wide.html" afterPath="$PROJECT_DIR$/outsider/app/templates/gallery-wide.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/droid.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/droid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/droid@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/droid@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/ipad.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/ipad.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/ipad@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/ipad@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/iphone.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/iphone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/detector/iphone@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/detector/iphone@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icon3.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icon3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icon3.svg" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icon3.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icons.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/icons@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/icons@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/gallery/loader.gif" afterPath="$PROJECT_DIR$/outsider/app/images/gallery/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/1w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/1w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/2w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/2w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/3w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/3w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/4w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/4w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/5w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/5w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/6w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/6w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/7w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/7w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8s.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/general-nature/8w.jpg" afterPath="$PROJECT_DIR$/outsider/app/images/general-nature/8w.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/address_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/address_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/block_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/block_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/bookmark_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/bookmark_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/briefcase_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/briefcase_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/bubble_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/bubble_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/buy_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/buy_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/calendar_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/calendar_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/clipboard_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/clipboard_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/clock_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/clock_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/delete_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/delete_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/diagram_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/diagram_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/document_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/document_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/down_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/down_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/flag_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/flag_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/folder_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/folder_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/gear_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/gear_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/globe_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/globe_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/heart_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/heart_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/help_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/help_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/home_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/home_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/info_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/info_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/key_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/key_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/label_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/label_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/left_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/left_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/letter_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/letter_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/license.txt" afterPath="$PROJECT_DIR$/outsider/app/images/lists/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/monitor_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/monitor_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/pencil_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/pencil_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/plus_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/plus_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/present_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/present_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/print_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/print_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/right_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/right_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/save_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/save_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/search_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/search_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/shield_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/shield_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/statistics_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/statistics_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/stop_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/stop_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/tick_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/tick_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/trash_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/trash_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/up_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/up_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/user_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/user_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/wallet_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/wallet_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/lists/warning_48.png" afterPath="$PROJECT_DIR$/outsider/app/images/lists/warning_48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo-big.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo-big.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo-dark.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo-dark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/logo.png" afterPath="$PROJECT_DIR$/outsider/app/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/arrow-left.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/arrow-left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/arrow-right.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/arrow-right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_mail.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_mail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_message.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_message.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_phone.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_phone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/contact_twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/contact_twitter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/deploy-mail.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/deploy-mail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/deploy-nav.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/deploy-nav.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/goup.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/goup.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/intro.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/intro.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/logo-header.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/logo-header.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/logo.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/menu-bg.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/menu-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-dropdown.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-dropdown.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-dropup.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-dropup.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-link.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-link.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/nav-submenu.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/nav-submenu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-blue.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-blue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-green.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-green.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-red.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-red.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/notification-yellow.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/notification-yellow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_close.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_facebook.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_magnifier.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_magnifier.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_phone.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_phone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/shortcut_twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/shortcut_twitter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/misc/twitter.png" afterPath="$PROJECT_DIR$/outsider/app/images/misc/twitter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-icon.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-landscape-retina.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-landscape-retina.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-landscape.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-landscape.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-portrait-retina.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-portrait-retina.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen-ipad-portrait.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen-ipad-portrait.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/splash/splash-screen@3x.png" afterPath="$PROJECT_DIR$/outsider/app/images/splash/splash-screen@3x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/status.gif" afterPath="$PROJECT_DIR$/outsider/app/images/status.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow-down.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow-down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow-up.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow-up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow22@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow22@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/arrow2@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/arrow2@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox1c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox1c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox2.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox2c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox2c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox3.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/checkbox3c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/checkbox3c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/minus.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/minus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/next.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/next1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/next1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/plus.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/plus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/prev.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/prev1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/prev1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio1.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio1c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio1c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio2.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/radio2c.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/radio2c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-off.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-off.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-off@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-off@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-on.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-on.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/switch-on@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/switch-on@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/ui/tick@2x.png" afterPath="$PROJECT_DIR$/outsider/app/images/ui/tick@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois2.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/images/whois3.png" afterPath="$PROJECT_DIR$/outsider/app/images/whois3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/index.html" afterPath="$PROJECT_DIR$/template/template/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/jquery.html" afterPath="$PROJECT_DIR$/template/template/jquery.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/others.html" afterPath="$PROJECT_DIR$/outsider/app/templates/others.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/php/contact.php" afterPath="$PROJECT_DIR$/template/template/php/contact.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-adaptive.html" afterPath="$PROJECT_DIR$/template/template/portfolio-adaptive.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-one.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-one.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-three.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-three.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/portfolio-two.html" afterPath="$PROJECT_DIR$/outsider/app/templates/portfolio-two.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/custom.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.launcher.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.launcher.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/framework.plugins.js" afterPath="$PROJECT_DIR$/template/template/scripts/framework.plugins.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/jquery.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/scripts/jqueryui.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/jqueryui.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/animate.css" afterPath="$PROJECT_DIR$/outsider/app/styles/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/font-awesome.css" afterPath="$PROJECT_DIR$/template/template/styles/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/framework.css" afterPath="$PROJECT_DIR$/outsider/app/styles/framework.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/owl.carousel.css" afterPath="$PROJECT_DIR$/outsider/app/styles/owl.carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/owl.theme.css" afterPath="$PROJECT_DIR$/outsider/app/styles/owl.theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/style.css" afterPath="$PROJECT_DIR$/template/template/styles/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/styles/swipebox.css" afterPath="$PROJECT_DIR$/outsider/app/styles/swipebox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/www/typography.html" afterPath="$PROJECT_DIR$/template/template/typography.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outsider/config.xml" afterPath="$PROJECT_DIR$/outsider/config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/browse.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/browse.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/gallery-round.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-round.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/gallery-square.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-square.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/gallery-wide.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-wide.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/home.html" afterPath="$PROJECT_DIR$/outsider/app/templates/profiile.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/jquery.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/jquery.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/login.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/menu.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/menu.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/others.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/others.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/playlist.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/playlist.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/playlists.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/playlists.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/portfolio-adaptive.html" afterPath="$PROJECT_DIR$/outsider/app/templates/home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/portfolio-one.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-one.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/portfolio-three.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-three.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/portfolio-two.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-two.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/search.html" afterPath="$PROJECT_DIR$/outsider/app/templates/ionics/search.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outsider/app/templates/typography.html" afterPath="$PROJECT_DIR$/outsider/app/templates/notUsed/typography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outsider/app/scripts/app.js" afterPath="$PROJECT_DIR$/outsider/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outsider/app/index.html" afterPath="$PROJECT_DIR$/outsider/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" afterPath="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="outsider-frontend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -405,31 +68,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43947572">
-              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/outsider/app/styles/animate.css">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidemenu.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/sidemenu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.6598983">
+              <caret line="153" column="42" selection-start-line="153" selection-start-column="42" selection-end-line="153" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -438,8 +101,68 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="89.458336">
-              <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+            <state vertical-scroll-proportion="26.666666">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.222221">
+              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-round.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-round.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-one.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-one.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/jquery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.185185">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typography.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/template/typography.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -470,11 +193,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/outsider/app/templates/home.html" />
         <option value="$PROJECT_DIR$/outsider/app/templates/preoloader.html" />
         <option value="$PROJECT_DIR$/outsider/app/templates/sidemenu.html" />
         <option value="$PROJECT_DIR$/outsider/app/templates/contact.html" />
         <option value="$PROJECT_DIR$/outsider/app/index.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/home.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/profiile.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-round.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-one.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/notUsed/typography.html" />
+        <option value="$PROJECT_DIR$/outsider/app/templates/notUsed/jquery.html" />
         <option value="$PROJECT_DIR$/outsider/app/scripts/app.js" />
       </list>
     </option>
@@ -487,10 +215,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="23" />
-    <option name="width" value="2484" />
-    <option name="height" value="1417" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -515,7 +243,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -531,6 +259,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outsider-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -610,32 +370,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outsider-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outsider-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outsider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -660,6 +398,8 @@
       <recent name="$PROJECT_DIR$/outsider/app/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/outsider/app/templates/notUsed" />
+      <recent name="$PROJECT_DIR$/outsider/app/templates/ionics" />
       <recent name="$PROJECT_DIR$/outsider-ionic" />
       <recent name="$PROJECT_DIR$/outsider/app/template" />
     </key>
@@ -857,6 +597,9 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -985,15 +728,16 @@
       <updated>1441130031658</updated>
       <workItem from="1441130033113" duration="5159000" />
       <workItem from="1441198595197" duration="1081000" />
+      <workItem from="1441334395239" duration="3207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6240000" />
+    <option name="totallyTimeSpent" value="9447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="23" width="2484" height="1417" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1002,12 +746,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="MMGraph" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1015,11 +758,12 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="MMGraph" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981133" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -1041,6 +785,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/styles/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1136,37 +912,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/outsider/app/templates/preoloader.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/outsider/app/images/logo-big.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outsider/app/templates/sidemenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-103.125">
-          <caret line="165" column="6" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outsider/app/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11783189">
-          <caret line="174" column="10" selection-start-line="174" selection-start-column="10" selection-end-line="174" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outsider/app/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3904164">
-          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/outsider/app/scripts/controllers.js">
@@ -1184,18 +932,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/preoloader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21319798">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/playlists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/profiile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/browse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/playlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.222221">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/gallery-round.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template/typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.185185">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/notUsed/portfolio-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/outsider/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="89.458336">
-          <caret line="48" column="81" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+        <state vertical-scroll-proportion="26.666666">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/outsider/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43947572">
-          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/ionics/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outsider/app/templates/sidemenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.6598983">
+          <caret line="153" column="42" selection-start-line="153" selection-start-column="42" selection-end-line="153" selection-end-column="42" />
           <folding />
         </state>
       </provider>

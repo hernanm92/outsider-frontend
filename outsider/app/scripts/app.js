@@ -26,9 +26,9 @@ angular.module('starter', ['ionic', 'starter.controllers'])
   $stateProvider
 
     .state('app', {
-    url: '/index',
+    url: '/',
     abstract: true,
-    templateUrl: 'templates/home.html',
+    templateUrl: 'templates/profiile.html',
     controller: 'AppCtrl'
   })
 
