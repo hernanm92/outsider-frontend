@@ -32,7 +32,7 @@
 <style type="text/css">
 .video-container {
     position: relative;
-    padding-bottom: 46%;
+    padding-bottom: 49%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
  
@@ -46,11 +46,14 @@
     height: 100%;
 }
 
-#content {
-    background-image: url(images/background_video2.png);
-    background-position: inherit;
-    background-repeat: no-repeat;
-    background-size: cover;
+#content:before { //hack
+  background-size: contain;
+  z-index: -3;
+  content: " ";
+  position: fixed;
+  background: url(images/background_video5.png) no-repeat;
+  width: 100%;
+  height: 100%;
 }
 </style>
 
@@ -249,6 +252,11 @@
         <div class="header-clear"></div>
         
         <h2>Vimeo video</h2>
+        <div class="video-container">
+            <iframe src="https://player.vimeo.com/video/138046256?portrait=0&byline=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <h2 style="margin-top: 20px">Vimeo video</h2>
         <div class="video-container">
             <iframe src="https://player.vimeo.com/video/138046256?portrait=0&byline=0" frameborder="0" allowfullscreen></iframe>
         </div>
