@@ -122,6 +122,8 @@ angular.module('starter.controllers', [])
     $scope.$parent.setExpanded(false);
     $scope.$parent.setHeaderFab(false);
 
+    $scope.user = {name: "Shaun White"}
+
     // Set Motion
     $timeout(function() {
         ionicMaterialMotion.slideUp({
