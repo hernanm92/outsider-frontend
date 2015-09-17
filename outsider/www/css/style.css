@@ -77,3 +77,19 @@ p {
     position: fixed;
     bottom: 0;
 }
+
+/*Search*/
+.search-bar{
+    background-color: #B71C1C;
+    color: #fff;
+}
+
+.menu-footer{
+    background-color: #B71C1C;
+    color: #fff;
+}
+
+.search-bar label {
+    background-color: #F44336;
+    color: #fff;
+}
