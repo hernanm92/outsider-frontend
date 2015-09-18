@@ -1,5 +1,5 @@
 'use strict';
-angular.module('main', [])
+angular.module('main')
 
     .controller('GalleryCtrl', function($scope, $stateParams, $timeout, ionicMaterialInk, ionicMaterialMotion) {
     $scope.$parent.showHeader();

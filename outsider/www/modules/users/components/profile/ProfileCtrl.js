@@ -1,4 +1,4 @@
-angular.module('main', [])
+angular.module('main')
 .controller('ProfileCtrl', function($scope, $stateParams, $timeout, ionicMaterialMotion, ionicMaterialInk) {
     // Set Header
     $scope.$parent.showHeader();

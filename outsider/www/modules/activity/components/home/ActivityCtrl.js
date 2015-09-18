@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('main', [])
+angular.module('main')
 
 
     .controller('ActivityCtrl', function($scope, $stateParams, $timeout, ionicMaterialMotion, ionicMaterialInk) {

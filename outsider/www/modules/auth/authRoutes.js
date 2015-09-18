@@ -1,14 +1,11 @@
 'use strict';
 angular.module('main').config(function ($stateProvider) {
-    $stateProvider.state('main.login', {
+    $stateProvider.state('auth', {
+        url: '/auth',
+        abstract: true,
+        templateUrl: 'index.html'
+    }).state('auth.login', {
     url: '/login',
-    views: {
-        'menuContent': {
-            templateUrl: 'modules/auth/components/login/login.html',
-            controller: 'LoginCtrl'
-        },
-        'fabContent': {
-            template: ''
-        }
-    }
+    templateUrl: 'modules/auth/components/login/login.html',
+    controller: 'LoginCtrl'
 })});

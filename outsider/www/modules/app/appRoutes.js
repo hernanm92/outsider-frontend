@@ -1,8 +1,7 @@
 'use strict';
 angular.module('main').config(function ($stateProvider, $urlRouterProvider) {
 
-    $urlRouterProvider.otherwise('/main/login');
-    console.log('daleee wachin')
+    $urlRouterProvider.otherwise('/auth/login');
     $stateProvider  // this state is placed in the <ion-nav-view> in the index.html
         .state('main', {
             url: '/main',

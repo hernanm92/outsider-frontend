@@ -1,4 +1,4 @@
-angular.module('main', [])
+angular.module('main')
 
     .controller('FriendsCtrl', function($scope, $stateParams, $timeout, ionicMaterialInk, ionicMaterialMotion) {
         // Set Header

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('main', [])
+angular.module('main')
 
     .controller('AppCtrl', function($scope) {
         // Form data for the login modal
@@ -8,7 +8,6 @@ angular.module('main', [])
         $scope.isExpanded = false;
         $scope.hasHeaderFabLeft = false;
         $scope.hasHeaderFabRight = false;
-        console.log("estoy en el app ctrl");
 
         var navIcons = document.getElementsByClassName('ion-navicon');
         for (var i = 0; i < navIcons.length; i++) {
