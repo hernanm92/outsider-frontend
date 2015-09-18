@@ -5,7 +5,7 @@ angular.module('main').config(function ($stateProvider) {
         abstract: true,
         templateUrl: 'index.html'
     }).state('auth.login', {
-    url: '/login',
-    templateUrl: 'modules/auth/components/login/login.html',
-    controller: 'LoginCtrl'
+        url: '/login',
+        templateUrl: 'modules/auth/components/login/login.html',
+        controller: 'LoginCtrl'
 })});

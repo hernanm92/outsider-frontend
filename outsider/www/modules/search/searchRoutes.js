@@ -1,14 +1,11 @@
 'use strict';
 angular.module('main').config(function ($stateProvider) {
-    $stateProvider.state('main.search', {
+    $stateProvider.state('search', {
+        url: 'search',
+        abstract: true,
+        templateUrl: 'index.html'
+    }).state('search.search', {
         url: '/search',
-        views: {
-            'menuContent': {
-                templateUrl: 'modules/search/components/bar/search.html',
-                controller: 'SearchCtrl'
-            },
-            'fabContent': {
-                template: ''
-            }
-        }
+        templateUrl: 'modules/search/components/bar/search.html',
+        controller: 'SearchCtrl'
     })});
