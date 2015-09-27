@@ -1,72 +1,105 @@
 <ion-view view-title="Activity">
     <ion-content ng-class="{expanded:isExpanded}" class="animate-fade-slide-in">
-        <div class="card stable-bg">
-            <div class="item item-avatar">
-                <img src="img/kevin_pearce.jpg" style="max-height: 55px; max-width: 55px;">
-                <h2>Kevin Pearce</h2>
-                <p>Professional snowboarder.</p>
-            </div>
-            <a class="image" style="margin-right: 10px; margin-left: 10px"><img src="img/snowboard_wallpaper.jpg"></a>
-            <div class="item item-body"> Morning training for the winter games. <p> <a class="subdued">652 Likes</a> <a class="subdued">78 Comments</a> </p> </div>
-            <div class="item tabs tabs-secondary tabs-icon-left">
-                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-thumbsup"></i> Like </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-chatbox"></i> Comment </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-share"></i> Share </a>
-            </div>
-        </div>
-        <div class="card stable-bg" style="margin-top: 20px">
+        <!--<div class="card stable-bg">-->
+            <!--<div class="item item-avatar">-->
+                <!--<img src="img/kevin_pearce.jpg" style="max-height: 55px; max-width: 55px;">-->
+                <!--<h2>Kevin Pearce</h2>-->
+                <!--<p>Professional snowboarder.</p>-->
+            <!--</div>-->
+            <!--<a class="image" style="margin-right: 10px; margin-left: 10px"><img src="img/snowboard_wallpaper.jpg"></a>-->
+            <!--<div class="item item-body"> Morning training for the winter games. <p> <a class="subdued">652 Likes</a> <a class="subdued">78 Comments</a> </p> </div>-->
+            <!--<div class="item tabs tabs-secondary tabs-icon-left">-->
+                <!--<a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-thumbsup"></i> Like </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-chatbox"></i> Comment </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-share"></i> Share </a>-->
+            <!--</div>-->
+        <!--</div>-->
+        <div class="card stable-bg" style="margin-top: 20px" ng-repeat="video in activity">
             <div class="item item-avatar">
                 <img src="img/peetu_piiroinen.jpg" style="max-height: 55px; max-width: 55px;">
-                <h2>Peetu Piiroinen</h2>
-                <p>Professional snowboarder.</p>
+                <h2 ui-sref="main.profile">{{video.owner.name}}</h2>
+                <p>{{video.owner.description}}</p>
             </div>
             <a class="image" style="margin-right: 10px; margin-left: 10px"><img src="img/snowboard_wallpaper2.jpg"></a>
-            <div class="item item-body"> Morning training for the winter games. <p> <a class="subdued">814 Likes</a> <a class="subdued">142 Comments</a> </p> </div>
+            <div class="item item-body"> {{video.title}}
+                <p><strong>{{video.description}}</strong> </p>
+                <p> <a class="subdued">{{video.likes}} Likes</a> <a class="subdued">{{video.comments.length}} Comments</a> </p>
+            </div>
             <div class="item tabs tabs-secondary tabs-icon-left">
-                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-thumbsup"></i> Like </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-chatbox"></i> Comment </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-share"></i> Share </a>
+                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="likeVideo(video.id)">
+                    <i class="icon ion-thumbsup"></i> Like </a>
+                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="makeComment(video.id)">
+                    <i class="icon ion-chatbox"></i> Comment </a>
+                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">
+                    <i class="icon ion-share"></i> Share </a>
+            </div>
+            <div class="item item-divider" ng-show="commentAvailable">
+                <label class="item item-input item-floating-label">
+                    <!--<span class="input-label">Make your comment</span>-->
+                    <input type="text" placeholder="Make your comment"/>
+                    <a class="button button-positive center-icon pull-right" style="width: 30px;margin-top: -40px" ng-click="commentVideo(video.id)">
+                        <!--todo: hacer el style bien-->
+                        <i class="icon ion-paper-airplane"></i>
+                    </a>
+                </label>
             </div>
         </div>
-        <div class="item card-item">
-            <div ui-sref="app.gallery" class="card stable-bg ink ink-dark">
-                <div class="item item-avatar item-text-wrap">
-                    <span class="avatar" style="background-image: url('img/jon-snow.jpg');"></span>
-                    <strong>Jon Snow</strong> knows nothing.
-                    <div class="card-footer text-right">
-                        <i class="icon ion-chatbubbles positive"></i> 6
-                        <i class="icon ion-heart assertive"></i> 23
-                        <div class="pull-left">
-                            <i class="icon ion-clock"></i> just now
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="item card-item">
-            <div ui-sref="app.gallery" class="card stable-bg ink ink-dark">
-                <div class="item item-avatar item-text-wrap">
-                    <span class="avatar" style="background-image: url('img/tyrion.jpg');"></span>
-                    <strong>Tyrion Lannister</strong> says "Perhaps that is the secret. It is not what we do, so much as why we do it."
-                    <div class="card-footer text-right">
-                        <i class="icon ion-chatbubble positive"></i> 2
-                        <i class="icon ion-heart assertive"></i> 4
-                        <div class="pull-left">
-                            <i class="icon ion-clock"></i> 12 mins ago
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="item card-item" style="margin-bottom: 60px">
-            <div ui-sref="app.gallery" class="card stable-bg ink ink-dark">
-                <div class="item item-avatar item-text-wrap">
-                    <span class="avatar" style="background-image: url('img/sansa.jpg');"></span>
-                    <strong>Sansa Stark</strong> added a gallery <strong>Pretending to be Anna from Frozen</strong> ...
-                </div>
-                <a class="image"><img src="img/sansa-snowcastle3.jpg"></a>
-                <i class="icon ion-chatbubble positive"></i> 2
-                <i class="icon ion-heart assertive"></i> 4
-                <div class="pull-left">
-                    <i class="icon ion-clock"></i> 3 hrs ago
-                </div>
-            </div>
-        </div>
+        <!--<div class="item card-item">-->
+            <!--<div ui-sref="app.gallery" class="card stable-bg ink ink-dark">-->
+                <!--<div class="item item-avatar item-text-wrap">-->
+                    <!--<span class="avatar" style="background-image: url('img/jon-snow.jpg');"></span>-->
+                    <!--<strong>Jon Snow</strong> knows nothing.-->
+                    <!--<div class="card-footer text-right">-->
+                        <!--<i class="icon ion-chatbubbles positive"></i> 6-->
+                        <!--<i class="icon ion-heart assertive"></i> 23-->
+                        <!--<div class="pull-left">-->
+                            <!--<i class="icon ion-clock"></i> just now-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="item card-item">-->
+            <!--<div ui-sref="app.gallery" class="card stable-bg ink ink-dark">-->
+                <!--<div class="item item-avatar item-text-wrap">-->
+                    <!--<span class="avatar" style="background-image: url('img/tyrion.jpg');"></span>-->
+                    <!--<strong>Tyrion Lannister</strong> says "Perhaps that is the secret. It is not what we do, so much as why we do it."-->
+                    <!--<div class="card-footer text-right">-->
+                        <!--<i class="icon ion-chatbubble positive"></i> 2-->
+                        <!--<i class="icon ion-heart assertive"></i> 4-->
+                        <!--<div class="pull-left">-->
+                            <!--<i class="icon ion-clock"></i> 12 mins ago-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="item card-item" style="margin-bottom: 60px">-->
+            <!--<div ui-sref="app.gallery" class="card stable-bg ink ink-dark">-->
+                <!--<div class="item item-avatar item-text-wrap">-->
+                    <!--<span class="avatar" style="background-image: url('img/sansa.jpg');"></span>-->
+                    <!--<strong>Sansa Stark</strong> added a gallery <strong>Pretending to be Anna from Frozen</strong> ...-->
+                <!--</div>-->
+                <!--<a class="image"><img src="img/sansa-snowcastle3.jpg"></a>-->
+                <!--<i class="icon ion-chatbubble positive"></i> 2-->
+                <!--<i class="icon ion-heart assertive"></i> 4-->
+                <!--<div class="pull-left">-->
+                    <!--<i class="icon ion-clock"></i> 3 hrs ago-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="item card-item" style="margin-bottom: 60px">-->
+
+            <!--<div class="card stable-bg ink ink-dark">-->
+                <!--<div class="item item-avatar">-->
+                    <!--<img src="img/kevin_pearce.jpg" style="max-height: 55px; max-width: 55px;">-->
+                    <!--<h2>Kevin Pearce</h2>-->
+                    <!--<p>Professional snowboarder.</p>-->
+                <!--</div>-->
+                <!--<a class="image" style="margin-right: 10px; margin-left: 10px"><img src="img/snowboard_wallpaper.jpg"></a>-->
+                <!--<div class="item item-body"> Morning training for the winter games. <p> <a class="subdued">652 Likes</a> <a class="subdued">78 Comments</a> </p> </div>-->
+                <!--<div class="item tabs tabs-secondary tabs-icon-left">-->
+                    <!--<a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-thumbsup"></i> Like </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-chatbox"></i> Comment </a> <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5"> <i class="icon ion-share"></i> Share </a>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
     </ion-content>
 </ion-view>

@@ -9,6 +9,38 @@ angular.module('main')
         $scope.isExpanded = false;
         $scope.$parent.setExpanded(false);
         $scope.$parent.setHeaderFab('right');
+        $scope.commentAvailable= false;
+        $scope.activity= [
+            {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
+                description: 'Awesome trick 360 , ' +
+            'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
+            likes: 25, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]},
+            {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
+                description: 'Awesome trick 360 , ' +
+            'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
+            likes: 25, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]},
+            {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
+                description: 'Awesome trick 360 , ' +
+            'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
+            likes: 25, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]},
+            {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
+                description: 'Awesome trick 360 , ' +
+            'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
+            likes: 25, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]}
+        ];
+
+        $scope.likeVideo= function (videoId) {
+            //todo: like
+        };
+
+        $scope.makeComment= function (videoId){
+            //todo: solo el de este video deberia habilitarse
+            $scope.commentAvailable= true;
+        };
+
+        $scope.commentVideo= function (videoId) {
+            //todo: comment
+        };
 
         $timeout(function() {
             ionicMaterialMotion.fadeSlideIn({
