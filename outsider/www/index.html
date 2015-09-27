@@ -38,24 +38,33 @@
     <!-- your app's js -->
 
     <script src="main.js"></script>
-    <script src="modules/auth/components/login/LoginCtrl.js"></script>
+
+    <!--auth module-->
     <script src="modules/auth/authRoutes.js"></script>
+    <!--<script src="modules/auth/services/authService.js"></script>-->
+    <script src="modules/auth/components/login/LoginCtrl.js"></script>
 
-    <script src="modules/app/components/menu/AppCtrl.js"></script>
+    <!--app module-->
     <script src="modules/app/appRoutes.js"></script>
+    <script src="modules/app/components/menu/AppCtrl.js"></script>
 
+    <!--search module-->
     <script src="modules/search/searchRoutes.js"></script>
     <script src="modules/search/components/bar/SearchCtrl.js"></script>
 
+    <!--user module-->
     <script src="modules/users/usersRoutes.js"></script>
+    <script src="modules/users/services/usersService.js"></script>
     <script src="modules/users/components/profile/ProfileCtrl.js"></script>
     <script src="modules/users/components/friends/FriendsCtrl.js"></script>
 
+    <!--activity module-->
     <script src="modules/activity/activityRoutes.js"></script>
     <script src="modules/activity/components/home/ActivityCtrl.js"></script>
     <script src="modules/activity/components/gallery/GalleryCtrl.js"></script>
 
     <script src="app.js"></script>
+    <script src="const/configConst.js"></script>
     <!--<script src="js/controllers/controllers.js"></script>-->
 </body>
 </html>

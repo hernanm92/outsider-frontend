@@ -19,23 +19,11 @@
             </a>
         </div>
         <h4 class="content padding double-padding-x">Following</h4>
-        <div class="list animate-fade-slide-in-right">
-            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
+        <div class="list animate-fade-slide-in-right" >
+            <a ui-sref="main.friends" class="item item-avatar item-icon-right" ng-repeat="friend in user.friends">
                 <img src="img/kevin_pearce.jpg">
-                <h2>Kevin Pearce</h2>
-                <p>Professional snowboarder</p>
-                <i class="icon ion-chatbubble muted"></i>
-            </a>
-            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
-                <img src="img/peetu_piiroinen.jpg">
-                <h2>Peetu Piiroinen</h2>
-                <p>Professional snowboarder</p>
-                <i class="icon ion-chatbubble muted"></i>
-            </a>
-            <a ui-sref="app.friends" class="item item-avatar item-icon-right">
-                <img src="img/peetu_piiroinen.jpg">
-                <h2>Risto Mattila</h2>
-                <p>Professional snowboarder</p>
+                <h2>{{friend.name}}</h2>
+                <p>{{friend.description}}</p>
                 <i class="icon ion-chatbubble muted"></i>
             </a>
         </div>

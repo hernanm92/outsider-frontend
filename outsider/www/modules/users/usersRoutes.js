@@ -27,9 +27,9 @@ angular.module('main').config(function ($stateProvider) {
             'fabContent': {
                 template: '',
                 controller: function ($timeout) {
-                    $timeout(function () {
-                        document.getElementById('fab-friends').classList.toggle('on');
-                    }, 900);
+                    //$timeout(function () {
+                    //    document.getElementById('fab-friends').classList.toggle('on');
+                    //}, 900);
                 }
             }
         }
