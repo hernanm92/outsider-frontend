@@ -2,15 +2,24 @@
 angular.module('main').factory('gActivities', function ($http, Config) {
     var URL = Config.ENV.SERVER_URL;
     var urlBase = URL + '/activity/';
-    var gUsers = {};
-    gUsers.getGralActivity = function () {
+    var gActivity = {};
+
+    gActivity.getGralActivity = function () {
         return $http.get(urlBase);
     };
-    gUsers.getUserActivity = function (id) {
+
+    gActivity.getUserActivity = function (id) {
         return $http.get(urlBase + id);
     };
-    gUsers.getFriends = function (id) {
-        return $http.get(urlBase + id+'/friends');
+
+    gActivity.likeVideo= function (videoId) {
+        return $http.get(urlBase + 'video/'+videoId+'/like');
     };
-    return gUsers;
+
+    gActivity.commentVideo= function (videoId, comment) {
+        return $http.get(urlBase + 'video/'+videoId+'/comment/'+comment);
+    };
+
+
+    return gActivity;
 });

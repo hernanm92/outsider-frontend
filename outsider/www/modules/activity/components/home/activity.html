@@ -24,8 +24,10 @@
                 <p> <a class="subdued">{{video.likes}} Likes</a> <a class="subdued">{{video.comments.length}} Comments</a> </p>
             </div>
             <div class="item tabs tabs-secondary tabs-icon-left">
-                <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="likeVideo(video.id)">
-                    <i class="icon ion-thumbsup"></i> Like </a>
+                <a ng-show="!video.liked" class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="likeVideo(video.id)">
+                    <i  class="icon ion-thumbsup"></i> Like </a>
+                <a ng-show="video.liked" class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="likeVideo(video.id)">
+                    <i class="icon ion-thumbsdown"></i> Unlike </a>
                 <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5" ng-click="makeComment(video.id)">
                     <i class="icon ion-chatbox"></i> Comment </a>
                 <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">

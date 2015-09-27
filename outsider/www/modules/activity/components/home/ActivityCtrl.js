@@ -18,7 +18,7 @@ angular.module('main')
             {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
                 description: 'Awesome trick 360 , ' +
             'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
-            likes: 25, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]},
+            likes: 25, liked:true, comments: [{owner: {name: 'Marcus Young'}, description: 'Wow I loved it'}]},
             {owner: {name: 'Kevin Prince Boateng', description: 'Profesional snowboarder'},
                 description: 'Awesome trick 360 , ' +
             'watch it and ty it! En invierno venganse al cerro catedral a probar', title: 'Snowboard trick',
